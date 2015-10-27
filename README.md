@@ -12,4 +12,4 @@ install that via:
 
 Then, go ahead and download the element's dependencies:
 
-    bower install
+    bower install jschertz/polymer-dick-butt
