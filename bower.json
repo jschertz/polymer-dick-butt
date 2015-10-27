@@ -1,5 +1,5 @@
 {
-  "name": "dickbutt",
+  "name": "polymer-dick-butt",
   "version": "1.0.0",
   "authors": [
     "Jason Schertz"
@@ -12,7 +12,7 @@
     "seed",
     "dickbutt"
   ],
-  "main": "dickbutt.html",
+  "main": "polymer-dick-butt.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/jschertz/polymer-dick-butt/",
   "ignore": [
