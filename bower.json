@@ -2,7 +2,7 @@
   "name": "dickbutt",
   "version": "1.0.0",
   "authors": [
-    "Anonymous <jason.schertz@gmail.com>"
+    "Jason Schertz"
   ],
   "description": "An element providing you with dickbutt.",
   "keywords": [
@@ -14,7 +14,7 @@
   ],
   "main": "dickbutt.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/jschertz/polymer-dickbutt/",
+  "homepage": "https://github.com/jschertz/polymer-dick-butt/",
   "ignore": [
     "/.*",
     "/test/",
